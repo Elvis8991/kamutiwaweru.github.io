@@ -51,7 +51,7 @@ body {
 
 /* Header (Home Page) */
 header {
-    background: url('images/your-image.jpg') no-repeat center center/cover;
+    background: url('images\ folder/images.jpg') no-repeat center center/cover;
     height: 400px;
     display: flex;
     justify-content: center;
